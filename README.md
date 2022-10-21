@@ -19,5 +19,5 @@ npm i @mellanyx/async_fs
 
 ## License
 
-Библиотека `mellanyx/async_fs` лицензирована для использования в рамках MIT License (MIT).  
+Библиотека `mellanyx/async_fs` была лицензирована для использования в рамках MIT License (MIT).  
 Пожалуйста прочитайте [LICENSE](https://github.com/mellanyx/helpers/blob/dev/LICENSE) для большей информации.
