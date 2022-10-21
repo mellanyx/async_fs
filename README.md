@@ -14,7 +14,7 @@
 
 #### Установка
 ```bash
-npm i mellanyx/async_fs
+npm i @mellanyx/async_fs
 ```
 
 ## License
