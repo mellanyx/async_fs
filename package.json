@@ -1,12 +1,25 @@
 {
-  "name": "async_fs",
+  "name": "@mellanyx/async_fs",
   "version": "0.1.0",
-  "description": "",
+  "description": "Async wrapper over fs module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["helper", "helpers", "files"],
-  "author": "mellanyx <[dev@starik0v.ru](mailto:dev@starik0v.ru)>",
-  "license": "ISC"
+  "keywords": [
+    "helper",
+    "helpers",
+    "files",
+    "fs"
+  ],
+  "author": "mellanyx <[dev@starik0v.ru](mailto:dev@starik0v.ru)> (mailto:dev@starik0v.ru)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mellanyx/async_fs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mellanyx/async_fs/issues"
+  },
+  "homepage": "https://github.com/mellanyx/async_fs#readme"
 }
